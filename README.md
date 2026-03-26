@@ -75,6 +75,10 @@ https://letxiz.github.io/netflix-ui-project/
 git clone https://github.com/letxiz/netflix-ui-project.git
 
 # Acesse a pasta do projeto
+cd Netflix
+
+# Abra o arquivo index.html no seu navegador preferido
+
 ```
 ## 💡 Sobre a Imersão
 
